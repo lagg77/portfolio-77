@@ -1,0 +1,18 @@
+body {
+    font-family: sans-serif;
+    background-color: aqua;
+    color: red;
+
+}
+
+.title{
+    color: black;
+}
+nav{
+    display: flex;
+    justify-content: center;
+}
+nav a{
+    border: 5px solid black
+    ;
+}
